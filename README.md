@@ -17,6 +17,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![Home UI](https://raw.githubusercontent.com/jonathan1313/TravelsApp/master/screen_shot/01.png)
-![Home UI](https://raw.githubusercontent.com/jonathan1313/TravelsApp/master/screen_shot/02.png)
-![Details UI](https://raw.githubusercontent.com/jonathan1313/travels_app/master/screen_shot/03.png)
+![Home UI](https://raw.githubusercontent.com/jonathan1313/RecipeAppUI/master/screen_shot/01.png)
+![Home UI](https://raw.githubusercontent.com/jonathan1313/RecipeAppUI/master/screen_shot/02.png)
+![Details UI](https://raw.githubusercontent.com/jonathan1313/RecipeAppUI/master/screen_shot/03.png)
